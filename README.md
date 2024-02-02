@@ -1,6 +1,8 @@
 # Azure-Log-analytics-workspace
 Azure Log analytics workspace -  Web server access monitoring
 
+In this project, I designed and implemented a robust logging system capable of capturing IP addresses accessing our website, coupled with client browser signatures. This proactive approach enabled automated detection of potential attackers employing unconventional methods, such as using curl or accessing the server from non-standard locations. By effectively analyzing and correlating this data, I developed a responsive mechanism to identify and thwart suspicious activities, enhancing our overall cybersecurity posture. This hands-on experience in creating a tailored security solution demonstrates my proficiency in threat detection, log analysis, and the strategic use of cloud-based tools for safeguarding digital assets.
+<hr/>
  - Login Azure portal 
  - Create new log analytics or click on the existing one. 
 
